@@ -1,0 +1,45 @@
+---------------------------
+Datos de las herramientas de trabajo
+---------------------------
+panel superior
+3
+tornillo de sujecion
+4
+piston
+6
+tuerca de sujecion
+9
+pieza de sujecion
+10
+---------------------------
+Datos de las herramientas de trabajo
+---------------------------
+caraca
+10
+espejo
+10
+martillo
+10
+galgas de medicion
+10
+berbiqui
+10
+alicate
+10
+destornillador
+10
+trenzador
+10
+---------------------------
+Datos de los oficiales de la empresa
+---------------------------
+Sergio,Abrodes
+David,Blanco
+David,Rueda
+---------------------------
+Datos de los obreros de la empresa
+---------------------------
+Adriana, Sanchez
+Fernando, Sanchez
+Felipe, Sanchez
+---------------------------
